@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleCounterView">
+        <attr name="initialNumber" format="integer" />
+        <attr name="addMode" format="boolean" />
+    </declare-styleable>
+</resources>
